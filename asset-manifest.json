@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Counter-Dine-Square/static/css/main.523f09c5.chunk.css",
+    "main.js": "/Counter-Dine-Square/static/js/main.ef10dc74.chunk.js",
+    "main.js.map": "/Counter-Dine-Square/static/js/main.ef10dc74.chunk.js.map",
+    "runtime-main.js": "/Counter-Dine-Square/static/js/runtime-main.ac08813b.js",
+    "runtime-main.js.map": "/Counter-Dine-Square/static/js/runtime-main.ac08813b.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Counter-Dine-Square/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.c630e79a.chunk.js": "/Counter-Dine-Square/static/js/2.c630e79a.chunk.js",
+    "static/js/2.c630e79a.chunk.js.map": "/Counter-Dine-Square/static/js/2.c630e79a.chunk.js.map",
+    "index.html": "/Counter-Dine-Square/index.html",
+    "precache-manifest.0a6765b2dbd79067dfc319ef07f4e63a.js": "/Counter-Dine-Square/precache-manifest.0a6765b2dbd79067dfc319ef07f4e63a.js",
+    "service-worker.js": "/Counter-Dine-Square/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Counter-Dine-Square/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.523f09c5.chunk.css.map": "/Counter-Dine-Square/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.c630e79a.chunk.js.LICENSE.txt": "/Counter-Dine-Square/static/js/2.c630e79a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Counter-Dine-Square/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac08813b.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.c630e79a.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.ef10dc74.chunk.js"
+  ]
+}
